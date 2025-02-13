@@ -104,6 +104,28 @@ export default function Navbar() {
                 {item.name}
               </a>
             ))}
+            <div className="pt-4 border-t border-white/5 flex gap-4">
+              <a
+                href={socialLinks.github}
+                className="p-2 rounded-lg bg-white/5 hover:bg-primary/10 transitions-colors group text-content/90"
+              >
+                <GithubIcon
+                  className="h-5 w-5 text-content/80
+                    group-hover:text-primary
+                    transition-colors"
+                />
+              </a>
+              <a
+                href={socialLinks.linkedin}
+                className="p-2 rounded-lg bg-white/5 hover:bg-primary/10 transitions-colors group text-content/90"
+              >
+                <LinkedInIcon
+                  className="h-5 w-5 text-content/80
+                    group-hover:text-primary
+                    transition-colors"
+                />
+              </a>
+            </div>
           </motion.div>
         )}
       </div>
