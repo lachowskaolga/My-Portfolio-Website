@@ -10,10 +10,10 @@ export default {
     extend: {
       colors: {
         background: "#0a0a0a",
-        surface: "#1a1a1a",
-        primary: "#0ea5e9",
+        surface: "##141313",
+        primary: "#F9CCD1",
         secondary: "#8b5cf6",
-        tertiary: "#ec4899",
+        tertiary: "#6E2FEA",
         content: "#fafafa",
       },
       backgroundImage: {

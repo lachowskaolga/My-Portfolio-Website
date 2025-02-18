@@ -23,7 +23,7 @@ export default function Navbar() {
     <motion.nav
       initial={{ y: -100 }}
       animate={{ y: 0 }}
-      className="fixed w-full z-50 bg-background/50 backdrop-blur-2xl transition-all duration-300 ease-out"
+      className="fixed w-full z-50 bg-background/80 backdrop-blur-2xl transition-all duration-300 ease-out"
     >
       <div className="max-w-7xl mx-auto px-6 py-3">
         <div className="flex items-center justify-between">
