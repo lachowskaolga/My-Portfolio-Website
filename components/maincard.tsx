@@ -71,10 +71,10 @@ export default function MainCard() {
               transition={{ duration: 0.8, delay: 1.2 }}
               className="bg-primary text-s bg-clip-text text-transparent w-[600px]"
             >
-              Specjalizuję się w Pythonie i frameworkach Flask oraz Django do
-              budowy aplikacji backendowych. Tworzę REST API i pracuję z bazami
-              danych PostgreSQL oraz SQLite przy użyciu SQLAlchemy. Potrafię
-              także implementować formularze z WTForms.
+              Specjalizuję się w Node.js, Pythonie i frameworkach Flask oraz
+              Django do budowy aplikacji backendowych. Tworzę REST API i pracuję
+              z bazami danych PostgreSQL oraz SQLite przy użyciu SQLAlchemy.
+              Potrafię także implementować formularze z WTForms.
             </motion.p>
             <br />
             <br />
@@ -144,7 +144,7 @@ export default function MainCard() {
                       }}
                       style={{ backgroundSize: "200% 200%" }}
                     >
-                      Gdańsk, PL
+                      Wrocław, PL
                     </motion.span>
                   </div>
                 </motion.div>
