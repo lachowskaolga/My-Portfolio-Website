@@ -8,9 +8,9 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 ## Features
 
-Animated Elements – Smooth animations enhance user experience and create a dynamic interface.
-Interactive Navigation – Buttons seamlessly direct users to different sections or external platforms.
-CV Download – A dedicated button allows users to download the CV as a PDF file.
-Modern & Dynamic Project Showcase – Projects are presented in an engaging and visually appealing way.
+- **Animated Elements** – Smooth animations enhance user experience and create a dynamic interface.
+- **Interactive Navigation**
+- **CV Download** – A dedicated button allows users to download the CV as a PDF file.
+- **Modern & Dynamic Project Showcase** – Projects are presented in an engaging and visually appealing way.
 
 ![Kolejny Screenshot](public/projects/PW_C.png)
