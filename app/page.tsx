@@ -1,6 +1,7 @@
 import Navbar from "@/components/navbar";
 import MainCard from "@/components/maincard";
 import Main from "@/components/main";
+import Footer from "@/components/footer";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Navbar />
       <MainCard />
       <Main />
+      <Footer />
     </div>
   );
 }
