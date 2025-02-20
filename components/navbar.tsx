@@ -7,8 +7,8 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/16/solid";
 
 const navItems = [
   { name: "Projects", href: "#work" },
-  { name: "Skills", href: "#skills" },
-  { name: "Experience", href: "#experience" },
+  { name: "Skills", href: "#work" },
+  { name: "Experience", href: "/LachowskaOlga.pdf" },
   { name: "Contact", href: "#contact" },
 ];
 

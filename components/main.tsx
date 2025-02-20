@@ -118,7 +118,7 @@ const projects = [
 
 export default function Main() {
   return (
-    <section className="py-32 relative id='work' bg-white/95">
+    <section id="work" className="py-32 relative id='work' bg-white/95">
       <div className="max-w-7xl mx-auto px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -127,7 +127,7 @@ export default function Main() {
           className="flex flex-col items-center mb-20"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-black/80 mb-4 text-center">
-            Projekty
+            <a href="#work">Projekty</a>
           </h2>
           <div className="w-32 h-1 bg-gradient-to-r from-primary to-tertiary rounded-full"></div>
         </motion.div>

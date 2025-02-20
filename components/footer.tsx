@@ -50,7 +50,9 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="text-xl font-bold text-white mb-4">Media</h3>
+            <h3 id="contact" className="text-xl font-bold text-white mb-4">
+              Media
+            </h3>
             <ul className="flex space-x-4">
               <a href={socialLinks.github}>
                 <GithubIcon className="text-gray-300 h-6 w-6 hover:text-white transition-colors" />
